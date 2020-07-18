@@ -1,4 +1,4 @@
-# <img align="right" alt="Vishal's Netflix Clone" src="./logo.png" width="150px" height="150px" style="border-radius: 25px;">
+# <img src="./logo.png" alt="Vishal's Netflix Clone">
 
 This is a Netflix clone web APP built using React and Firebase. The data is fetched from TMDB API.
 
