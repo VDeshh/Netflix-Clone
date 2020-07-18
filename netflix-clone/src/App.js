@@ -1,13 +1,16 @@
-import React from 'react';
-import './App.css';
-import Row from './Row';
-import requests from './requests'
+import React from "react";
+import "./App.css";
+import Row from "./Row";
+import requests from "./requests";
 function App() {
   return (
     <div className="App">
-      <h1>Let's Go Baby!</h1>
-      <Row title="NETFLIX ORIGINALS" fetchUrl={requests.fetchNetflixOriginals}/>
-      <Row title="Trending Now" fetchUrl={requests.fetchTrending}/>
+      <h1>Vishal's Netflix Clone!</h1>
+      <Row
+        title="NETFLIX ORIGINALS"
+        fetchUrl={requests.fetchNetflixOriginals}
+      />
+      <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
     </div>
   );
 }
