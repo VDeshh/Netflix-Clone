@@ -1,6 +1,6 @@
 # Netflix-Clone
 
-<img align="right" alt="Vishal's Netflix Clone" src="./public/logo.png" width="150px" height="150px" style="border-radius: 25px;">
+<img align="right" alt="Vishal's Netflix Clone" src="./public/images/logo.png" width="150px" height="150px" style="border-radius: 25px;">
 This is a Netflix clone web APP built using React and Firebase. The data is fetched from TMDB API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
