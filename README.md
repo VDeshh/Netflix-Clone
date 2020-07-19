@@ -1,8 +1,8 @@
 # <img src="./logo.png" alt="Vishal's Netflix Clone">
 
-This is a Netflix clone web APP built using React and Firebase. The data is fetched from TMDB API.
+## About This Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Netflix clone web application built using React and Firebase. The data is fetched from TMDB API.
 
 ## Available Scripts
 
