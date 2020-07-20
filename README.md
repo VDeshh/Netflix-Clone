@@ -26,6 +26,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
 
+## Developed By
+
+- [Vishal Desh](https://github.com/VDeshh)
+
 ## Available Scripts
 
 In the project directory, you can run:
