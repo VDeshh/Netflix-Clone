@@ -30,6 +30,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 - [Vishal Desh](https://github.com/VDeshh)
 
+## Application Demo
+
+- [Demo Link](https://vishalsnetflixclone.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
